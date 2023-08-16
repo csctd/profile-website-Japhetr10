@@ -1,6 +1,6 @@
 # Japhet's Profile Website
 
-In this website, you'll get to see the adventures I went on during the TD program!
+In this website you'll get to see the adventures I went on during the TD program!
 
 
 
