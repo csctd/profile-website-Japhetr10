@@ -1,6 +1,6 @@
-# Page Title
+# Japhet's Profile Website
 
-A short introduction for the top of your main page
+In this website, you'll get to see the adventures I went on during the TD program!
 
 
 More content you want on your page
